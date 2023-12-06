@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const port = 3003;
+const port = 3002;
 const route = require("./src/routers");
 const bodyParser = require("body-parser");
 const cors = require("cors"); // Import thư viện CORS
